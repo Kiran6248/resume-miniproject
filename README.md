@@ -1,5 +1,5 @@
 # Resume-miniproject
-[view live project here.]
+[view live project here.](https://kiran6248.github.io/resume-miniproject/index.html)
 This is a resume website for Rosie Odenkirk.
 
 ## User Stories
