@@ -1,43 +1,62 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Resume-miniproject
+[view live project here.]
+This is a resume website for Rosie Odenkirk.
 
-Welcome Kiran6248,
+## User Stories
+ The main purpose of this site is to contact recuiters and make the resume of rosie ,easily available to the potential employers.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+ ## UX 5 Planes
 
-## Gitpod Reminders
+ Strategy- To make your resume easily available to recuiters 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+ Scope- PDF of resume, contact details are included in the webpage.
 
-`python3 -m http.server`
+ structure- This is a 3 page website with one extra link to download the resume. Work history and progress bar of the skill is also included.
 
-A blue button should appear to click: *Make Public*,
+skeleton- Wireframe of the site was made in Balsamiq.
 
-Another blue button should appear to click: *Open Browser*.
+Surface-The header have one image of rosie, name of the site and links to different pages of the site.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+ Final website is made with Home, Resume and Contact pages. In home page personal info and About me section is included.
+in resume page work history and progress bar for skill is included. IN contact page one form is there to put name , email and project description.
+Last link is to download the pdf of cv.
 
-A blue button should appear to click: *Make Public*,
+In the footer one section is about the role, one is to download the cv and last one is for social links.
 
-Another blue button should appear to click: *Open Browser*.
+## Features
+- Responsive on all device size
+- Interactive Design
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+## Technologies Used
+### Languages used
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+### Frameworks, Libraries and Programs used
+1. [Bootstrap 4.4.1](https://getbootstrap.com/docs/4.4/getting-started/introduction/)<br>
+    Bootstrap was used to assist with the responsiveness and styling of the website.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+2. [Hover.css](https://ianlunn.github.io/Hover/)<br>
+    Hover.css was used on the sign up buttons.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+3. [Google Fonts](https://fonts.google.com/)<br>
+    Google fonts were used to import the 'Roboto' font into the style.css file which is used on all pages throughout the project.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+4. [Font Awesome](https://fontawesome.com/)  <br>
+    Font Awesome was used on feature section of the webpage.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+5. [Git](https://git-scm.com/)<br>
+    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+6. [Github](https://github.com/)<br>
+    GitHub is used to store the projects code after being pushed from Git.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+ ### Testing
+ 
+ The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.   
 
---------
+ ### Acknowledgemennts
 
-Happy coding!
+ Code institute Tutorial.<br>
+Monthly favorite section was developed by me.
